@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SeniorDesignProject" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/mor</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+    </style>
+
+    <style name="AppTheme.SignPage" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Diğer stil özelliklerini burada belirtebilirsiniz -->
+    </style>
+
+    <style name="Theme.SeniorDesignProject" parent="Base.Theme.SeniorDesignProject" />
+</resources>

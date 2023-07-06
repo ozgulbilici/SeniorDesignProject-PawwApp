@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Paww App</string>
+    <string name="launch_gallery" />
+    <string name="take_picture" />
+    <string name="classified_as" />
+</resources>
